@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samupsicologo.example.com/sitemap.xml
